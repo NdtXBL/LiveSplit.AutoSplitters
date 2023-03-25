@@ -2693,6 +2693,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Call of Duty: Black Ops III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/CODBlackOps3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Ndt's Auto-Splitter // Load Remover</Description>
+        <Website>https://github.com/NdtXBL/bo3autosplitter/blob/main/readme.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Call of Duty: Modern Warfare (2019)</Game>
         </Games>
         <URLs>
